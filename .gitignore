@@ -1,0 +1,26 @@
+# Only reusable code/docs/synthetic examples belong in this public repository.
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.bmproj
+*.bmprojbundle/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.srt
+*.receipt.json
+_work/
+jobs/
+outputs/
+private/
+toolchain.json

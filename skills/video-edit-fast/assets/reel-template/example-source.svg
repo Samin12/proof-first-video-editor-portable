@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+  <rect width="1000" height="760" rx="20" fill="#f4f3ee"/>
+  <text x="70" y="100" font-family="Arial,sans-serif" font-size="25" font-weight="bold" fill="#62636a">SYNTHETIC FIXTURE · NOT FACTUAL EVIDENCE</text>
+  <text x="70" y="190" font-family="Arial,sans-serif" font-size="64" font-weight="bold" fill="#191b20">Keep the useful part.</text>
+  <rect x="62" y="250" width="876" height="108" rx="14" fill="#ffe348"/>
+  <text x="90" y="319" font-family="Arial,sans-serif" font-size="39" font-weight="bold" fill="#191b20">01  Select a clear moment</text>
+  <rect x="62" y="385" width="876" height="108" rx="14" fill="#e3e2dc"/>
+  <text x="90" y="454" font-family="Arial,sans-serif" font-size="39" font-weight="bold" fill="#191b20">02  Show the real source</text>
+  <rect x="62" y="520" width="876" height="108" rx="14" fill="#e3e2dc"/>
+  <text x="90" y="589" font-family="Arial,sans-serif" font-size="39" font-weight="bold" fill="#191b20">03  Reuse your template</text>
+  <text x="70" y="700" font-family="Arial,sans-serif" font-size="25" fill="#62636a">Replace this card with a verified local capture.</text>
+</svg>
